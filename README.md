@@ -2,7 +2,7 @@
 <img align="right" width="380" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2hxc24zeHB0aDk1czQ2Zmoyd2w5bmlxcGk1OW1kMWN5eWoxbDhzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif">
 🧬 About Me<br/>
 💠 Name        : Shivani Pal<br/>
-💠 Role        : Full Stack Developer/ML Engineer<br/>
+💠 Role        : Full Stack Developer / ML Engineer<br/>
 💠 Focus       : Web • Cloud • AI-integrated Apps<br/>
 💠 Mindset     : Build. Break. Learn. Repeat.<br/>
 
